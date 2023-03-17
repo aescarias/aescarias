@@ -1,12 +1,11 @@
-# 🏓 Hello y'all!
+# 🏓 Hey, I do things on the web.
 
-I'm **Ángel Carias**, a 15 year old Honduran web developer and designer primarily focusing on developing libraries, creating web applications, and making other useful tools!
+I'm **Ángel Carias**, a 16 year old Honduran web developer and designer that primarily writes libraries, web applications, and other useful tools!
+I'm mostly interested in programming and technology, but also slightly into aviation and just life in general.
 
-🌱 Programming and technology are some of my main interests, but I'm also slightly interested in `Aviation ✈️` and just life in general.
+I primarily code in Python but also do work with web technologies like Svelte and Typescript.
 
-## 💻 Technologies
-
-I use Python as my primary language, but also do work in frontend web technologies and tinker around with backend development.
+Some of the stuff I know/have worked with:
 
 <table>
   <tr>
