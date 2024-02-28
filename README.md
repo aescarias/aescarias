@@ -22,6 +22,6 @@ Listed below are some of the technologies I have worked with:
 ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
 
 <div>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=aescarias&show_icons=true&theme=monokai&hide_border=true" alt="Github Stats" height="200" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aescarias&layout=compact&theme=monokai&hide_border=true" alt="Top Languages" height="200" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=aescarias&show_icons=true&theme=monokai&hide_border=true" alt="Github Stats" height="180" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aescarias&layout=compact&theme=monokai&hide_border=true" alt="Top Languages" height="180" />
 </div>
