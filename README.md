@@ -1,46 +1,27 @@
 # 🏓 Hey, I do things on the web.
 
-I'm **Ángel Carias**, a 16 year old Honduran web developer and designer that primarily writes libraries, web applications, and other useful tools!
-I'm mostly interested in programming and technology, but also slightly into aviation and just life in general.
+I am a 17 year old Honduran web developer and UI/UX designer that tinkers with APIs and libraries to create great applications and tools.
 
-I primarily code in Python but also do work with web technologies like Svelte and Typescript.
+- 🐛 My main programming languages are Python and TypeScript. I sometimes also use Rust.
+- 🌱 Most of my interests lie in technology. I also have slight interests in solving puzzles and aviation.
 
-Some of the stuff I know/have worked with:
+Listed below are some of the technologies I have worked with:
 
-<table>
-  <tr>
-    <td><b>Frontend</b></td>
-    <td style="display: flex">
-      <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" title="HTML5" />
-      <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" title="CSS3" />
-      <img src="https://img.shields.io/badge/svelte-%23f1413d?style=for-the-badge&logo=svelte&logoColor=white" title="Svelte" />
-      <img src="https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D" title="VueJS" />
-      <img src="https://img.shields.io/badge/Nuxt-002E3B?style=for-the-badge&logo=nuxtdotjs&logoColor=#00DC82" title="NuxtJS" />
-    </td>
-  </tr>
-  <tr>
-    <td><b>Backend</b></td>
-    <td style="display: flex">
-      <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" title="NodeJS" />
-      <img src="https://img.shields.io/badge/express.js-%23404d59?style=for-the-badge&logo=express&logoColor=%2361DAFB" title="Express" />
-    </td>
-  </tr>
-  <tr>
-    <td><b>Programming</b></td>
-    <td style="display: flex">
-      <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" title="Python" />
-      <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" title="Javascript" />
-      <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" title="Typescript" />
-    </td>
-</table>
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![Svelte](https://img.shields.io/badge/svelte-%23f1413d.svg?style=for-the-badge&logo=svelte&logoColor=white)
+![Astro](https://img.shields.io/badge/astro-%232C2052.svg?style=for-the-badge&logo=astro&logoColor=white)
+![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
+![Nuxtjs](https://img.shields.io/badge/Nuxt-002E3B?style=for-the-badge&logo=nuxtdotjs&logoColor=#00DC82)
 
-## Stats
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 
-<div style="display: flex">
-  <img src="https://github-readme-stats.vercel.app/api?username=aescarias&theme=vue-dark&show_icons=true&hide_border=true" 
-       alt="Ángel's Github Stats" 
-       style="height: 28vh" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aescarias&theme=vue-dark&layout=compact&hide_border=true" 
-       alt="Ángel's Top Languages" 
-       style="height: 28vh" />
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
+
+<div>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=aescarias&show_icons=true&theme=monokai&hide_border=true" alt="Github Stats" height="200" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aescarias&layout=compact&theme=monokai&hide_border=true" alt="Top Languages" height="200" />
 </div>
