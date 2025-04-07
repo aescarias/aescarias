@@ -1,6 +1,6 @@
 # 🏓 Hey, I do things on the web.
 
-I am a 17 year old Honduran web developer and UI/UX designer that tinkers with APIs and libraries to create great applications and tools.
+I am a Honduran web developer and UI/UX designer that tinkers with APIs and libraries to create great applications and tools.
 
 - 🐛 My main programming languages are Python and TypeScript. I sometimes also use Rust.
 - 🌱 Most of my interests lie in technology. I also have slight interests in solving puzzles and aviation.
